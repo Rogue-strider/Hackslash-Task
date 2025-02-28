@@ -183,7 +183,8 @@
     }
     .footerlast{
         flex-direction: column;
-        margin-top: 10vw;
+        margin-top: 50vw;
+        margin-left: 10vw;
     }
     .foot1{
         /* background-color: red; */
@@ -196,6 +197,10 @@
         width: 100%;
         margin-top: 2vw;
         gap: 5vw;
+    }
+    .lpbtn{
+        width: 40vw;
+        
     }
 }
 

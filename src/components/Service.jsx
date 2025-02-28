@@ -11,8 +11,8 @@ const Service = () => {
         </h1>
       </div>
       {/* Backend */}
-      <div className="backend mb-5 p-5 h-[50%]  flex justify-center items-center">
-        <div className="backendimgdiv bg-zinc-900 w-1/3 h-[50vh]">
+      <div className="backend  mb-7 p-5 pl-[9vw] h-[50%]  flex justify-center items-center">
+        <div className="backendimgdiv bg-zinc-900 w-1/3 mr-4 h-[50vh]">
           <img
             src={backend}
             className="backendimg object-cover w-full h-full"
@@ -44,7 +44,7 @@ const Service = () => {
       </div>
       <hr className="line invisible ... text-zinc-400  " />
       {/*frontend */}
-      <div className="frontend p-5 h-[42%] flex justify-center items-center">
+      <div className="frontend  p-5 h-[42%] flex justify-center items-center">
         {/* <div className="frontendcont p-3 bg-red-500 w-[30vw]">
           <h2 className="text-3xl font-bold text-gray-800 mb-4">
             Frontend Development

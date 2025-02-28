@@ -85,7 +85,7 @@ const Page5 = () => {
             Let's get in touch!
           </p>
         </div>
-        <button className="mt-4 px-4 w-[18%] py-3 bg-[#344CB7] hover:bg-gray-800  transition duration-300 text-white  shadow-md">
+        <button className="lpbtn mt-4 px-4 w-[18%] py-3 bg-[#344CB7] hover:bg-gray-800  transition duration-300 text-white  shadow-md">
           <i className="ri-arrow-right-fill text-lg mr-2"></i>
           WORK WITH ME
         </button>
