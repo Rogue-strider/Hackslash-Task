@@ -85,14 +85,14 @@ const Page5 = () => {
             Let's get in touch!
           </p>
         </div>
-        <button className="lpbtn mt-4 px-4 w-[18%] py-3 bg-[#344CB7] hover:bg-gray-800  transition duration-300 text-white  shadow-md">
+        <button className="lpbtn mt-4 px-4 w-[18%] py-3 bg-[#344CB7] hover:bg-gray-800 rounded-sm  transition duration-300 text-white  shadow-md">
           <i className="ri-arrow-right-fill text-lg mr-2"></i>
           WORK WITH ME
         </button>
       </div>
 
       {/* Footer */}
-      <footer className="flex footerlast p-1 text-sm h-[5vw] w-[70vw] mb-[5vw] items-center space-y-2 text-gray-500">
+      <footer className="flex footerlast p-1 text-sm h-[5vw] w-[70vw] mt-[2vw] mb-[5vw] items-center space-y-2 text-gray-500">
         <div className="foot1 flex mr-[20%] mt-[2vw] w-[50vw]">
           <div>
             <div className="circle h-[3vw] w-[3vw]  bg-[#25282F]   rounded-full mr-5">
